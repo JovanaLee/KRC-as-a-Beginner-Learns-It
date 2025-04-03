@@ -1,0 +1,4 @@
+Just comments about certain things I notice.
+
+#1: I believe the conversion table program the book provided is incorrect? I noticed this when I did the celsius to fahrenheit exercise.
+#2: Disregard #1, I was just thinking about it incorrectly. It is infact, correct.
