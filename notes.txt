@@ -2,3 +2,4 @@ Just comments about certain things I notice.
 
 #1: I believe the conversion table program the book provided is incorrect? I noticed this when I did the celsius to fahrenheit exercise.
 #2: Disregard #1, I was just thinking about it incorrectly. It is infact, correct.
+#3: Started naming my exercises with a chapter_exercise format as is presented in the book. Examples will still be named pretty intuitively.
